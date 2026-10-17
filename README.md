@@ -44,6 +44,11 @@ You can run XO-Arena in two ways.
 5. Open the APK and allow installation from this source if prompted.
 6. Tap **Install** and start playing.
 
+## Download APK
+
+Download and install the latest version of XO-Arena:
+[Download XO-Arena APK](https://github.com/txchyguy/XO-Arena/releases/latest)
+
 **Note:** If the APK does not install, check its compatibility with your Android device.
 
 ## Future Improvements
